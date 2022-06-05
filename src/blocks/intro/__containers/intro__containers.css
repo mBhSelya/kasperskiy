@@ -1,0 +1,10 @@
+.intro__containers {
+    display: flex;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 1145px) {
+    .intro__containers {
+        flex-direction: column;
+    }
+}

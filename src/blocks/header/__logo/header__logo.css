@@ -1,0 +1,6 @@
+.header__logo {
+    background-image: url(../../../images/Kaspersky_Logo.svg);
+    background-size: 156px 32px;
+    width: 156px;
+    height: 32px;
+}

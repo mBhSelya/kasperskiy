@@ -1,0 +1,10 @@
+.buy-block__mini {
+    display: none;
+    background: linear-gradient(317.5deg, rgba(0, 168, 142, 0.4) 66.18%, rgba(126, 255, 51, 0.4) 100%), #23D1AE;
+    height: 67px;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    padding: 0 15px 0 12px;
+    box-sizing: border-box;
+}

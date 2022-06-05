@@ -1,0 +1,9 @@
+.lead__check-mark {
+    margin: 6px 16px 0 0;
+}
+
+@media screen and (max-width: 1145px) {
+    .lead__check-mark {
+        margin: 2px 14px 0 0;
+    }
+}

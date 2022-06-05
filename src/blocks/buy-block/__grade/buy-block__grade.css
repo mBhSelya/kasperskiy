@@ -1,0 +1,4 @@
+.buy-block__grade {
+    display: flex;
+    align-items: flex-end;
+}

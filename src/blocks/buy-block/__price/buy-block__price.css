@@ -1,0 +1,22 @@
+.buy-block__price {
+    display: flex;
+    align-items: center;
+    height: 89px;
+    margin: 12px 0;
+    border-left: 2px solid rgb(255, 255, 255, .2);
+    border-right: 2px solid rgb(255, 255, 255, .2);
+    padding: 0 34px 0 27px;
+}
+
+@media screen and (max-width: 1145px) {
+    .buy-block__price {
+        margin: 20px 0;
+        border-left: none;
+        border-right: none;
+        border-top: 2px solid rgb(255, 255, 255, .2);
+        border-bottom: 2px solid rgb(255, 255, 255, .2);
+        width: 296px;
+        justify-content: center;
+        box-sizing: border-box;
+    }
+}

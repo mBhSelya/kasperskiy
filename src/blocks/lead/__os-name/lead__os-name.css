@@ -1,0 +1,9 @@
+.lead__os-name {
+    color: white;
+    display: flex;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+    flex-direction: column;
+}

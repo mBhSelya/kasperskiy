@@ -1,0 +1,17 @@
+.buy-block {
+    max-width: 1166px;
+    height: 152px;
+    margin: -104px auto 92px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+@media screen and (max-width: 1145px) {
+    .buy-block {
+        width: 90%;
+        margin: 0 auto;
+        height: 100%;
+        position: unset;
+    }
+}

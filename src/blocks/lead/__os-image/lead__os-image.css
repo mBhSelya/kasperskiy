@@ -1,0 +1,14 @@
+.lead__os-image {
+    padding: 0 16px 0;
+    border-right: 1px solid #666666;
+    object-fit: contain;
+}
+
+.lead__os-image:last-of-type {
+    padding: 0 0 0 16px;
+    border: none;
+}
+
+.lead__os-image:first-of-type {
+    padding: 0 16px 0 0;
+}

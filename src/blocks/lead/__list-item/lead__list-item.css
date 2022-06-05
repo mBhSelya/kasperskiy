@@ -1,0 +1,21 @@
+.lead__list-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 0 0 20px;
+    display: flex;
+    align-items: flex-start;
+    max-width: 500px;
+}
+
+.lead__list-item:last-of-type {
+    margin: 0;
+}
+
+@media screen and (max-width: 1145px) {
+    .lead__list-item {
+        font-size: 20px;
+        line-height: 32px;
+    }
+}

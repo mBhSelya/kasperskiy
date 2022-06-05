@@ -1,0 +1,16 @@
+.buy-block__product-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 24px;
+    margin: 0 0 4px;
+    min-width: 354px;
+}
+
+@media screen and (max-width: 1145px) {
+    .buy-block__product-name {
+        max-width: 223px;
+        margin: 0 0 8px;
+        min-width: 0;
+    }
+}

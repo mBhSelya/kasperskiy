@@ -1,0 +1,12 @@
+.intro__gaming-mode-text {
+    display: flex;
+    flex-direction: column;
+    margin: 51px 0 0;
+    margin-left: calc((100vw - 1110px) / 2 );
+}
+
+@media screen and (max-width: 1145px) {
+    .intro__gaming-mode-text {
+        margin: 35px 0 35px 24px;
+    }
+}

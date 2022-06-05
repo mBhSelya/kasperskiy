@@ -1,0 +1,4 @@
+.buy-block_mini {
+    position: sticky;
+    top: calc(100vh - 70px);
+}

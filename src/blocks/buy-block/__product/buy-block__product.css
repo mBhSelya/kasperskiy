@@ -1,0 +1,18 @@
+.buy-block__product {
+    display: flex;
+    align-items: center;
+    margin: 15px 0 0 32px;
+    background-image: url(../../../images/product\ icon.svg);
+    background-size: 75px 81px;
+    height: 81px;
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+
+@media screen and (max-width: 1145px) {
+    .buy-block__product {
+        margin: 21px auto 0;
+        background-size: 50px 56px;
+        background-image: url(../../../images/product\ icon\ no-border.svg);
+    }
+}

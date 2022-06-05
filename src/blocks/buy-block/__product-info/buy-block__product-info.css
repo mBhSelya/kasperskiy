@@ -1,0 +1,11 @@
+.buy-block__product-info {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0 104px;
+}
+
+@media screen and (max-width: 1145px) {
+    .buy-block__product-info {
+        margin: 0 0 0 73px;
+    }
+}

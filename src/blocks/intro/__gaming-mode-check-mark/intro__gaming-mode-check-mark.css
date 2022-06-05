@@ -1,0 +1,9 @@
+.intro__gaming-mode-check-mark {
+    margin: 0 16px 0 0;
+}
+
+@media screen and (max-width: 1145px) {
+    .intro__gaming-mode-check-mark {
+        margin: 0 14px 0 0;
+    }
+}

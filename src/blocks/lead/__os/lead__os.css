@@ -1,0 +1,10 @@
+.lead__os {
+    display: none;
+}
+
+@media screen and (max-width: 1145px) {
+    .lead__os {
+        display: block;
+        margin: 0 0 43px 58px;
+    }
+}

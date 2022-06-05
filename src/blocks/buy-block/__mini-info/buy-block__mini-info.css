@@ -1,0 +1,11 @@
+.buy-block__mini-info {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    transition-duration: .3s;
+    transition-timing-function: ease;
+}
+
+.buy-block__mini-info:hover {
+    opacity: .6;
+}

@@ -1,0 +1,15 @@
+.buy-block__sale {
+    width: 285px;
+    background-color: #8233FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+}
+
+@media screen and (max-width: 1145px) {
+    .buy-block__sale {
+        height: 36px;
+        width: 179px;
+    }
+}

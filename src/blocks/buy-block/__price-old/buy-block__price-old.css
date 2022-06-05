@@ -1,0 +1,15 @@
+.buy-block__price-old {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 32px;
+    color: #006D5C;
+    margin: 0 12px 0 0;
+    text-decoration: line-through;
+}
+
+@media screen and (max-width: 1145px) {
+    .buy-block__price-old {
+        margin: 0 19px 0 0;
+    }
+}

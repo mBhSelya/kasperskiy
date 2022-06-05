@@ -1,0 +1,13 @@
+.buy-block__reviews {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    cursor: pointer;
+    transition-duration: .3s;
+    transition-timing-function: ease;
+}
+
+.buy-block__reviews:hover {
+    opacity: .6;
+}

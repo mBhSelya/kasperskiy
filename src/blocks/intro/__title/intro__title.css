@@ -1,0 +1,17 @@
+.intro__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 52px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: white;
+    margin: 0 0 72px;
+    padding: 0;
+}
+
+@media screen and (max-width: 1145px) {
+    .intro__title {
+        display: none;
+    }
+}

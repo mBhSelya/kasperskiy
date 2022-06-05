@@ -1,0 +1,13 @@
+.lead__text-width {
+    max-width: 607px;
+    color: white;
+    margin: 114px 0 156px;
+}
+
+@media screen and (max-width: 1145px) {
+    .lead__text-width {
+        padding: 0 24px;
+        margin: 0 auto 27px;
+        margin-top: calc(100vw + 40px);
+    }
+}

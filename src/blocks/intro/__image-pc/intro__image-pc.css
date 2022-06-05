@@ -1,0 +1,11 @@
+.intro__image-pc {
+    transform: skew(9deg, 0);
+    position: absolute;
+    right: -41px;
+}
+
+@media screen and (max-width: 1145px) {
+    .intro__image-pc {
+        display: none;
+    }
+}

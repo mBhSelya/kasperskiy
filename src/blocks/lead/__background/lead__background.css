@@ -1,0 +1,12 @@
+.lead__background {
+    background-image: url(../../../images/Intersect.png);
+    background-position-x: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+@media screen and (max-width: 1145px) {
+    .lead__background {
+        background-image: url(../../../images/Intersect-small.png);
+    }
+}

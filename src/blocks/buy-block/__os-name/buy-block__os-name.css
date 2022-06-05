@@ -1,0 +1,9 @@
+.buy-block__os-name {
+    color: white;
+    display: flex;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 8px 123px 8px 29px;
+}
